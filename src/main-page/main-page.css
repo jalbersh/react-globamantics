@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.logo {
+  height: 150px;
+}
+
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  color: coral;
+}
+
+.featuredHouse {
+   border-radius: 2px;
+   background-color: rbg(255,190,166);
+}
